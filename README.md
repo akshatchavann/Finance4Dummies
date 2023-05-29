@@ -1,3 +1,6 @@
+UPDATE: Won 1st place for Capital One’s Best Financial Hack at Major League Hacking Hackathon (TechTogether New York City 2023)
+
+
 # FinanceForDummies.tech - Personal Financial Advisor and Nearest ATM Finder
 
 
