@@ -41,7 +41,7 @@ Programming languages and Tools: We use Flask, HTML, CSS, JavaScript, Python, JS
 To get started with FinanceForDummies.tech, follow these steps:
 
 
-1. Git clone from https://github.com/sahil10210/capitolOneHack.git
+1. Git clone from https://github.com/akshatchavann/Finance4Dummies.git
 2. Set up the necessary installations and dependencies (refer to requirements.txt)
 3. Configure the Nessie API and OpenAI API using the corresponding documentation
 4. Either run the file locally on preferred development environment or use https://cap-pls-app.azurewebsites.net/
